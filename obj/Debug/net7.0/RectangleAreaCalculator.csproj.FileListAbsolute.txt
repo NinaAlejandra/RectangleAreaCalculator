@@ -1,0 +1,14 @@
+/Users/Nina/Projects/RectangleAreaCalculator/bin/Debug/net7.0/RectangleAreaCalculator
+/Users/Nina/Projects/RectangleAreaCalculator/bin/Debug/net7.0/RectangleAreaCalculator.deps.json
+/Users/Nina/Projects/RectangleAreaCalculator/bin/Debug/net7.0/RectangleAreaCalculator.runtimeconfig.json
+/Users/Nina/Projects/RectangleAreaCalculator/bin/Debug/net7.0/RectangleAreaCalculator.dll
+/Users/Nina/Projects/RectangleAreaCalculator/bin/Debug/net7.0/RectangleAreaCalculator.pdb
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/RectangleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/RectangleAreaCalculator.AssemblyInfoInputs.cache
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/RectangleAreaCalculator.AssemblyInfo.cs
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/RectangleAreaCalculator.csproj.CoreCompileInputs.cache
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/RectangleAreaCalculator.dll
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/refint/RectangleAreaCalculator.dll
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/RectangleAreaCalculator.pdb
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/RectangleAreaCalculator.genruntimeconfig.cache
+/Users/Nina/Projects/RectangleAreaCalculator/obj/Debug/net7.0/ref/RectangleAreaCalculator.dll
